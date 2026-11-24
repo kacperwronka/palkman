@@ -1,4 +1,4 @@
-// Automatycznie wygenerowane przez potok GitHub Actions (2026-11-24 08:26 UTC)
+// Automatycznie wygenerowane przez potok GitHub Actions (2026-11-24 10:01 UTC)
 window.CAMPUS_WEATHER = {
   "city": "Warszawa (Kampus ALK, ul. Jagiellońska)",
   "source": "Open-Meteo API (Fallback)",
@@ -6,7 +6,7 @@ window.CAMPUS_WEATHER = {
   "condition_label": "Opady deszczu na Jagiellońskiej",
   "icon": "🌧️",
   "temp_c": 2.0,
-  "humidity": 93,
+  "humidity": 94,
   "precipitation_mm": 0.1,
   "is_day": true,
   "campus_alert": "Uwaga: Posadzka na Patio jest śliska! Profesor narzeka na zmoknięte arkusze ocen.",
@@ -17,5 +17,5 @@ window.CAMPUS_WEATHER = {
     "professor_quote": "Brrr, w taki deszcz moje arkusze ocen zamokną! Panie Kolego, zmykajmy do auli!",
     "hud_badge": "🌧️ 2.0°C | Opady deszczu na Jagiellońskiej"
   },
-  "last_updated": "2026-11-24 08:26 UTC"
+  "last_updated": "2026-11-24 10:01 UTC"
 };
